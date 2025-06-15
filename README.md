@@ -13,7 +13,7 @@ local localPlayer = Players.LocalPlayer
 
 -- ========= AIMBOT ===========
 local AIMBOT_ENABLED = false
-local SMOOTHNESS = 0.1 -- 0.1 = muito suave, 1 = instantâneo
+local SMOOTHNESS = 0.14 -- 0.1 = muito suave, 1 = instantâneo
 
 -- Utility: Find closest player's head to mouse cursor
 local function getClosestPlayerToMouse()
